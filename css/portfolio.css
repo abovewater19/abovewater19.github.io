@@ -7,5 +7,9 @@ body {
 
 h1 {
 	font-family: 'Fjalla One', sans-serif;
-	padding-left: 25%;
+	color: #fff
+	padding-left: 50%;
+	border-bottom: 2px solid #fff;
+	height: 2em;
+	max-width: 1.25em;
 }
