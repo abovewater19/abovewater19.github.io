@@ -2,3 +2,8 @@
 body {
 	background-color: #ffa949;
 }
+h1 {
+	font-family: 'Fjalla One', sans-serif;
+	color: #fff;
+	padding-left: 25%;
+}
