@@ -88,7 +88,7 @@ ul {
 	}
 
 .intro {
-	font-size: 1.3em;
+	font-size: 1.25em;
 	padding-bottom: 50px;
 }
 
@@ -98,6 +98,11 @@ ul {
 	max-width: 700px;
 	margin: auto;
 	line-height: 1.5em;
+}
+
+.intro-main,
+.intro-final {
+	font-size: 0.95em;
 }
 
 .secondary-content {
